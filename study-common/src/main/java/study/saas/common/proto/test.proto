@@ -1,0 +1,10 @@
+syntax = "proto3";
+option java_package = "kumi.saas.edu.common.proto.model";   // 你希望生成的文件所在的包目录
+option java_outer_classname = "RabbitTestModel";  // 你希望生成的文件名
+
+message TestData {   // 文件内具体的数据类名
+                     int32 userId = 1;
+                     string userName = 2;
+                     string passWord = 3;
+                     int64 time = 4;
+}
