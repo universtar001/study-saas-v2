@@ -1,7 +1,7 @@
 # study-saas
 
 ## 介绍
-库米运维后端学习代码
+山东财经大学版权所有，未经允许，不可商用
 
 **注意不再使用git submodules 模式，而改用maven module组织项目，更方便**
 
